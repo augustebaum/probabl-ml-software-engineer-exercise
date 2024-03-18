@@ -1,3 +1,4 @@
+# Permutation test exercise
 
 Here is the exercise description:
 > Using `sklearn.model_selection.permutation_test_score`, compute the p-value indicating if the score obtained by an instance of `sklearn.dummy.DummyClassifier` on the dataset `sklearn.datasets.load_iris` is obtained by chance.
